@@ -1,8 +1,8 @@
 import React from 'react';
 
-function HeaderNav( { ref, title } ){
+function HeaderNav( { title, handleClick } ){
     return(
-        <a href={ref} className="text-[#b1b2b6] uppercase hover:cursor-pointer h-12 leading-[48px] px-4">{title}</a>
+        <button className="text-[#b1b2b6] uppercase hover:cursor-pointer h-12 leading-[48px] px-8" onClick={handleClick}>{title}</button>
     )
 }
 
