@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/egg-web/static/css/main.9fdc419d.css",
-    "main.js": "/egg-web/static/js/main.29c39204.js",
+    "main.css": "/egg-web/static/css/main.48bb0139.css",
+    "main.js": "/egg-web/static/js/main.50327a62.js",
     "static/js/453.9cb8233c.chunk.js": "/egg-web/static/js/453.9cb8233c.chunk.js",
     "static/media/eggIcon.jpg": "/egg-web/static/media/eggIcon.ceedc1d5dffb92563b46.jpg",
     "index.html": "/egg-web/index.html",
-    "main.9fdc419d.css.map": "/egg-web/static/css/main.9fdc419d.css.map",
-    "main.29c39204.js.map": "/egg-web/static/js/main.29c39204.js.map",
+    "main.48bb0139.css.map": "/egg-web/static/css/main.48bb0139.css.map",
+    "main.50327a62.js.map": "/egg-web/static/js/main.50327a62.js.map",
     "453.9cb8233c.chunk.js.map": "/egg-web/static/js/453.9cb8233c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fdc419d.css",
-    "static/js/main.29c39204.js"
+    "static/css/main.48bb0139.css",
+    "static/js/main.50327a62.js"
   ]
 }
